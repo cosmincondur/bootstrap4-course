@@ -1,5 +1,5 @@
 # Bootstrap 4 Course by Brad Traversy Media
-Projects are built in the udemy courses.
+Projects are built in the udemy course.
 
 Live previews : <br>
 [Mizuxe](https://cosmincondur.github.io/bootstrap4-course/mizuxe)<br>
