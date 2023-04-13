@@ -1,9 +1,9 @@
 # bootstrap4-course by Brad Traversy Media
 Projects are built in the udemy courses.
 
-Live previews : 
-[Mizuxe](https://cosmincondur.github.io/bootstrap4-course/mizuxe)
-[Glozzom](https://cosmincondur.github.io/bootstrap4-course/glozzom)
-[Looplab](https://cosmincondur.github.io/bootstrap4-course/looplab)
-[Blogen](https://cosmincondur.github.io/bootstrap4-course/blogen)
+Live previews : <br>
+[Mizuxe](https://cosmincondur.github.io/bootstrap4-course/mizuxe)<br>
+[Glozzom](https://cosmincondur.github.io/bootstrap4-course/glozzom)<br>
+[Looplab](https://cosmincondur.github.io/bootstrap4-course/looplab)<br>
+[Blogen](https://cosmincondur.github.io/bootstrap4-course/blogen)<br>
 [Portofolio Grid](https://cosmincondur.github.io/bootstrap4-course/portofoliogrid)
