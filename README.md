@@ -1,4 +1,4 @@
-# bootstrap4-course by Brad Traversy Media
+# Bootstrap 4 Course by Brad Traversy Media
 Projects are built in the udemy courses.
 
 Live previews : <br>
